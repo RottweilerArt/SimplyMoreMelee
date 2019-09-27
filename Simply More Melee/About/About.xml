@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ModMetaData>
+  <name>Simply More Melee</name>
+  <author>Rottweiler</author>
+  <url>https://steamcommunity.com/sharedfiles/filedetails/?id=1873462256</url>
+  <description>What it says on the tin! Simply More Melee is mod meant to diversify and expand upon the vanilla melee weapons list. It does this by adding 25 new melee weapons, spread across the tech tree! SMM is intended to seamlessly integrate with vanilla, meaning no new research or crafting tables, and all of the weapons will spawn on vendors and pawns!</description>
+  <supportedVersions>
+    <li>1.0</li>
+  </supportedVersions>
+</ModMetaData>
